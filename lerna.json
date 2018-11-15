@@ -1,6 +1,6 @@
 {
   "lerna": "3.4.3",
-  "packages": ["packages/*"],
+  "packages": ["packages/react-native-dom"],
   "npmClient": "yarn",
   "version": "0.4.1",
   "exact": true,
