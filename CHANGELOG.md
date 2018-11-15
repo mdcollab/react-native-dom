@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.5.0](https://github.com/vincentriemer/react-native-dom/compare/v0.4.1...v0.5.0) (2018-11-15)
+
+
+### Features
+
+* Change layout positioning from transformX/transformY to top/left ([314804f](https://github.com/vincentriemer/react-native-dom/commit/314804f))
+* Sync button implementation ([0483598](https://github.com/vincentriemer/react-native-dom/commit/0483598))
+
+
+
+
+
 <a name="0.4.1"></a>
 ## [0.4.1](https://github.com/vincentriemer/react-native-dom/compare/v0.4.0...v0.4.1) (2018-09-16)
 
